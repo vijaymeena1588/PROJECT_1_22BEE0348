@@ -18,7 +18,8 @@ The git init command creates a new Git repository. It can be used to convert an 
 ### 3. Git clone command :  
 git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. The original repository can be located on the local filesystem or on remote machine accessible supported protocols. The git clone command copies an existing Git repository.  
   
-  git clone https://github.com/Gaurav-Dadhich/Project-0-22BIT0395-
+  git clone https://github.com/vijaymeena1588/PROJECT_1_22BEE0348.git  
+  
 
 ### 4. Git add command :  
 5. Git commit command :  
