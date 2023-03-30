@@ -22,7 +22,8 @@ git clone is primarily used to point to an existing repo and make a clone or cop
   
 
 ### 4. Git add command :  
- adds a change in the working directory to the staging area.  
+ adds a change in the working directory to the staging area.   
+ 
  `git add Project 101`  
  
 ### 5. Git commit command :  
@@ -36,7 +37,6 @@ This command changes the head. It records or snapshots the file permanently in t
 #### Git commit-a  
 
 This command commits any files added in the repository with git add and also commits any files you've changed since then.  
-
 ` git commit -a`  
 ### 6. Git status command :  
 The git status command displays the state of the working directory and the staging area.   
